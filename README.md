@@ -10,11 +10,14 @@ Aucun préalable n’est nécessaire pour suivre cette présentation. Toutefois,
 vous serez en mesure de comprendre l'utilité de la programmation orientée objet en plus d'être en mesure de faire vos premiers pas dans ce type de programmation. Ce document a été produit par 
 [Gabriel Genest](https://github.com/GabGabG) et [Anthony Drouin](https://github.com/AnthoDrouin).
 
+[Lien du notebook colab](https://colab.research.google.com/drive/1TJGomMDIosSehHyBfrgZd1NChPcDbtbD?usp=sharing)
+
 ## Tests unitaires
 ### Préalable
 Pour réaliser de bons tests unitaires, il est impératif d'avoir une connaissance de base en programmation orientée objet. Les documents produits pour cette présentation ont été
 réalisés par [Anthony Drouin]((https://github.com/AnthoDrouin)). L'exercice de la moyenne et du stack proviennent de la présentation de l'édition précédente du ProgFest. Ces exercices
 ont été réalisés par [Ludovick Bégin](https://github.com/JLBegin).
 
+[Lien du notebook colab](https://colab.research.google.com/drive/1FufDUE3-47gKhXRUzi_uZ8pSosaPyOKr?usp=sharing)
 
 ### Bon ProgFest!
